@@ -1,0 +1,8 @@
+#include<iostream>
+#include<graphics>
+
+using namespace std;
+
+int main(){
+  cout << :
+}
